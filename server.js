@@ -11,8 +11,8 @@ app.locals = {
 app.use(express.json());
 app.use(cors())
 
-// api/v1/clothes
-app.get('/', (req, res) => {
+
+app.get('/api/v1/clothes', (req, res) => {
   res.status(200).json({ clothes: app.locals.clothes })
 })
 
