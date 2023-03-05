@@ -19,3 +19,5 @@ app.get('/api/v1/clothes', (req, res) => {
 
 const port = process.env.PORT || 5500;
 app.listen(port, () => console.log(`Listening on Port: ${port}`));
+
+export default app;
