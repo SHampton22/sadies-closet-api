@@ -67,7 +67,8 @@ const clothes = [
   {
     "id": 14,
     "type": "bottom",
-    "img_url": "https://lh4.googleusercontent.com/hRU-quO1zSiWbfgxX-4tvg--fAl-JzWJn3w6Wh7EY8Yj5Tq_TUyQzmRlHEODOITkI3A=w2400"
+    // https://lh4.googleusercontent.com/hRU-quO1zSiWbfgxX-4tvg--fAl-JzWJn3w6Wh7EY8Yj5Tq_TUyQzmRlHEODOITkI3A=w2400
+    "img_url": "https://lh4.googleusercontent.com/a0H2Q7CJu68NlNoyXtkC6tJoxZfQAXE1spyMRNLtdtDNGVmARnmy6IIuiI-oVvbAtRk=w2400"
   },
 ]
 export default clothes;
